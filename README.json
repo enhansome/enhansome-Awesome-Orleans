@@ -1,0 +1,391 @@
+{
+  "items": [
+    {
+      "description": "A collection of awesome things in the Microsoft Orleans ecosystem.",
+      "items": [],
+      "title": "Awesome Orleans"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Dotnet-Boxed Orleans Template",
+          "description": "Orleans project template with batteries included, providing the minimum amount of code required to get you going.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-08-11T23:12:02Z",
+            "owner": "Dotnet-Boxed",
+            "repo": "Templates",
+            "stars": 3483
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "HanBaoBao",
+          "description": "A Mandarin/English bilingual dictionary built with a VueJS Web frontend, demonstrating Kubernetes deployment on AKS",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2021-06-03T17:45:27Z",
+            "owner": "ReubenBond",
+            "repo": "hanbaobao-web",
+            "stars": 151
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Orleans.Tournament",
+          "description": "Orleans sample with clustering, implicit stream handling, authentication, authorization, websockets.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2024-05-09T15:37:57Z",
+            "owner": "pmorelli92",
+            "repo": "Orleans.Tournament",
+            "stars": 77
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Orleans Heroes",
+          "description": "sample app.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-07-06T06:04:41Z",
+            "owner": "sketch7",
+            "repo": "orleans-heroes",
+            "stars": 70
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Orleans.Security",
+          "description": "Authorization library for Microsoft Orleans",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2024-10-17T14:00:17Z",
+            "owner": "Async-Hub",
+            "repo": "Orleans.Security",
+            "stars": 40
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Orleans Silo + Client on Azure App Service",
+          "description": "This repository contains a simple solution with an Orleans Silo and an Orleans Client project.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2022-02-18T00:27:11Z",
+            "owner": "bradygaster",
+            "repo": "OrleansOnAzureAppService",
+            "stars": 30
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Orleans Silo + Client on Azure Container Apps",
+          "description": "This repository contains a simple solution with an Orleans Silo and an Orleans Client project.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2022-04-21T16:35:39Z",
+            "owner": "bradygaster",
+            "repo": "OrleansOnAzureContainerApps",
+            "stars": 20
+          }
+        }
+      ],
+      "title": "Example Projects"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Orleans.Clustering.Kubernetes",
+          "description": "Orleans Membership provider for Kubernetes",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-03-23T16:04:20Z",
+            "owner": "OrleansContrib",
+            "repo": "Orleans.Clustering.Kubernetes",
+            "stars": 201
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Orleans.Providers.MongoDB",
+          "description": "A MongoDb providers for Membership, Storage and Reminders.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-01-12T21:37:22Z",
+            "owner": "OrleansContrib",
+            "repo": "Orleans.Providers.MongoDB",
+            "stars": 112
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Orleans.Streams.Kafka",
+          "description": "An implementation of a PersistentStreamProvider for Microsoft Orleans and Kafka using the Confluent API.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2024-02-29T13:47:20Z",
+            "owner": "jonathansant",
+            "repo": "Orleans.Streams.Kafka",
+            "stars": 87
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Orleans.Redis",
+          "description": "Persistence and Clustering providers for Orleans",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2024-01-10T14:24:39Z",
+            "owner": "OrleansContrib",
+            "repo": "Orleans.Redis",
+            "stars": 71
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Orleans.Providers.EntityFramework",
+          "description": "An Entity Framework Core implementation of Orleans Grain Storage.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2024-03-08T13:37:06Z",
+            "owner": "OrleansContrib",
+            "repo": "Orleans.Providers.EntityFramework",
+            "stars": 53
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Orleans.CosmosDB",
+          "description": "Orleans providers for Azure Cosmos DB",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "C#",
+            "last_commit": "2023-07-09T17:24:00Z",
+            "owner": "OrleansContrib",
+            "repo": "Orleans.CosmosDB",
+            "stars": 40
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Orleans.Providers.RabbitMQ",
+          "description": "Orleans providers for RabbitMQ.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2021-11-07T13:42:10Z",
+            "owner": "OrleansContrib",
+            "repo": "Orleans.Providers.RabbitMQ",
+            "stars": 32
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Orleans.Streaming.Grains",
+          "description": "Fast streaming provider that enables queue persistance via all Grain Storage providers. This enables Persistent Streams on premises.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-01-27T13:49:38Z",
+            "owner": "Surveily",
+            "repo": "Orleans.Streaming.Grains",
+            "stars": 24
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Orleans.TelemetryConsumers.Datadog",
+          "description": "Orleans integration package for Datadog.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2021-08-05T13:29:36Z",
+            "owner": "OrleansContrib",
+            "repo": "Orleans.TelemetryConsumers.Datadog",
+            "stars": 3
+          }
+        }
+      ],
+      "title": "Providers"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Orleankka",
+          "description": "Functional API for Microsoft Orleans",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2025-12-15T21:25:35Z",
+            "owner": "OrleansContrib",
+            "repo": "Orleankka",
+            "stars": 507
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Orleans.Sagas",
+          "description": "A distributed saga implementation for Orleans.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2024-04-04T09:19:53Z",
+            "owner": "OrleansContrib",
+            "repo": "Orleans.Sagas",
+            "stars": 168
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Orleans.Http",
+          "description": "An HTTP API for Microsoft Orleans.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2022-12-08T06:17:27Z",
+            "owner": "OrleansContrib",
+            "repo": "Orleans.Http",
+            "stars": 110
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Orleans.SyncWork",
+          "description": "write long running CPU bound synchronous work, without becoming overloaded.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-07-13T23:40:06Z",
+            "owner": "OrleansContrib",
+            "repo": "Orleans.SyncWork",
+            "stars": 76
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Orleans.Indexing",
+          "description": "Indexing extension for Orleans.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2021-09-05T20:28:54Z",
+            "owner": "OrleansContrib",
+            "repo": "Orleans.Indexing",
+            "stars": 49
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Orleans.StorageProviderInterceptors",
+          "description": "Intercept grain storage provider calls for transparent encryption model state validation, or whatever you can dream up!",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2024-01-10T23:49:26Z",
+            "owner": "ElanHasson",
+            "repo": "Orleans.StorageProviderInterceptors",
+            "stars": 9
+          }
+        }
+      ],
+      "title": "Extensions"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "SignalR.Orleans",
+          "description": "SignalR backend based on Orleans.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-02-05T00:55:26Z",
+            "owner": "OrleansContrib",
+            "repo": "SignalR.Orleans",
+            "stars": 309
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "OrleanSpaces",
+          "description": "A virtual, fully-asynchronous, Tuple Space implementation backed by Orleans.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2023-12-02T21:26:51Z",
+            "owner": "ledjon-behluli",
+            "repo": "OrleanSpaces",
+            "stars": 69
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Orleans.SignalR",
+          "description": "SignalR for Orleans, base on Streams, with all functions, including calling client methods and getting results.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-04-02T07:08:15Z",
+            "owner": "managedcode",
+            "repo": "Orleans.SignalR",
+            "stars": 37
+          }
+        }
+      ],
+      "title": "Projects built on Orleans"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T18:32:28.830Z",
+    "original_repository": "OrleansContrib/Awesome-Orleans",
+    "original_repository_sha": "5f67d180a2bfc97bd0342dc5caa6faeaee0c7982",
+    "enhanced_repository": "enhansome/enhansome-Awesome-Orleans",
+    "enhanced_repository_description": null,
+    "title": "Awesome Orleans with stars"
+  }
+}
