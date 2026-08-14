@@ -283,7 +283,7 @@
             "last_commit": "2022-12-08T06:17:27Z",
             "owner": "OrleansContrib",
             "repo": "Orleans.Http",
-            "stars": 110
+            "stars": 109
           }
         },
         {
@@ -381,7 +381,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T18:32:28.830Z",
+    "last_updated": "2026-08-14T18:29:35.554Z",
     "original_repository": "OrleansContrib/Awesome-Orleans",
     "original_repository_sha": "5f67d180a2bfc97bd0342dc5caa6faeaee0c7982",
     "enhanced_repository": "enhansome/enhansome-Awesome-Orleans",
