@@ -1,8 +1,8 @@
 # Awesome Orleans with stars
 
-### **Awesome Orleans** [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 496,059 | 🐛 100 | 📅 2026-06-30
+### **Awesome Orleans** [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 496,451 | 🐛 100 | 📅 2026-06-30
 
-A collection of awesome things in the [Microsoft Orleans](https://github.com/dotnet/orleans) ⭐ 10,832 | 🐛 704 | 🌐 C# | 📅 2026-08-15 ecosystem.
+A collection of awesome things in the [Microsoft Orleans](https://github.com/dotnet/orleans) ⭐ 10,835 | 🐛 713 | 🌐 C# | 📅 2026-08-16 ecosystem.
 
 ##### Documentation
 
@@ -93,4 +93,4 @@ A collection of awesome things in the [Microsoft Orleans](https://github.com/dot
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-15._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-16._
