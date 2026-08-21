@@ -17,7 +17,7 @@
                 "last_commit": "2026-08-11T23:12:02Z",
                 "owner": "Dotnet-Boxed",
                 "repo": "Templates",
-                "stars": 3485
+                "stars": 3486
               }
             },
             {
@@ -411,7 +411,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-20T17:59:39.975Z",
+    "last_updated": "2026-08-21T18:00:05.875Z",
     "original_repository": "OrleansContrib/Awesome-Orleans",
     "original_repository_id": 455542234,
     "original_repository_sha": "5f67d180a2bfc97bd0342dc5caa6faeaee0c7982",
