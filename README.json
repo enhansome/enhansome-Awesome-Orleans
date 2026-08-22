@@ -32,7 +32,7 @@
                 "last_commit": "2021-06-03T17:45:27Z",
                 "owner": "ReubenBond",
                 "repo": "hanbaobao-web",
-                "stars": 151
+                "stars": 152
               }
             },
             {
@@ -62,7 +62,7 @@
                 "last_commit": "2026-07-06T06:04:41Z",
                 "owner": "sketch7",
                 "repo": "orleans-heroes",
-                "stars": 70
+                "stars": 71
               }
             },
             {
@@ -331,7 +331,7 @@
                 "last_commit": "2021-09-05T20:28:54Z",
                 "owner": "OrleansContrib",
                 "repo": "Orleans.Indexing",
-                "stars": 49
+                "stars": 50
               }
             },
             {
@@ -368,7 +368,7 @@
                 "last_commit": "2026-02-05T00:55:26Z",
                 "owner": "OrleansContrib",
                 "repo": "SignalR.Orleans",
-                "stars": 310
+                "stars": 311
               }
             },
             {
@@ -411,7 +411,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-21T18:00:05.875Z",
+    "last_updated": "2026-08-22T17:53:45.241Z",
     "original_repository": "OrleansContrib/Awesome-Orleans",
     "original_repository_id": 455542234,
     "original_repository_sha": "5f67d180a2bfc97bd0342dc5caa6faeaee0c7982",

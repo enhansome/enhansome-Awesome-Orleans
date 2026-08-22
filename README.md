@@ -1,8 +1,8 @@
 # Awesome Orleans with stars
 
-### **Awesome Orleans** [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 498,571 | 🐛 105 | 📅 2026-08-21
+### **Awesome Orleans** [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 498,917 | 🐛 105 | 📅 2026-08-21
 
-A collection of awesome things in the [Microsoft Orleans](https://github.com/dotnet/orleans) ⭐ 10,839 | 🐛 648 | 🌐 C# | 📅 2026-08-21 ecosystem.
+A collection of awesome things in the [Microsoft Orleans](https://github.com/dotnet/orleans) ⭐ 10,842 | 🐛 660 | 🌐 C# | 📅 2026-08-22 ecosystem.
 
 ##### Documentation
 
@@ -18,9 +18,9 @@ A collection of awesome things in the [Microsoft Orleans](https://github.com/dot
 ##### Example Projects
 
 * [Dotnet-Boxed Orleans Template](https://github.com/Dotnet-Boxed/Templates/blob/main/Docs/Orleans.md) ⭐ 3,486 | 🐛 51 | 🌐 C# | 📅 2026-08-11 - Orleans project template with batteries included, providing the minimum amount of code required to get you going.
-* [HanBaoBao](https://github.com/ReubenBond/hanbaobao-web) ⭐ 151 | 🐛 2 | 🌐 C# | 📅 2021-06-03 - A Mandarin/English bilingual dictionary built with a VueJS Web frontend, demonstrating Kubernetes deployment on AKS
+* [HanBaoBao](https://github.com/ReubenBond/hanbaobao-web) ⭐ 152 | 🐛 2 | 🌐 C# | 📅 2021-06-03 - A Mandarin/English bilingual dictionary built with a VueJS Web frontend, demonstrating Kubernetes deployment on AKS
 * [Orleans.Tournament](https://github.com/pmorelli92/Orleans.Tournament) ⭐ 77 | 🐛 2 | 🌐 C# | 📅 2024-05-09 - Orleans sample with clustering, implicit stream handling, authentication, authorization, websockets.
-* [Orleans Heroes](https://github.com/sketch7/orleans-heroes) ⭐ 70 | 🐛 4 | 🌐 C# | 📅 2026-07-06 - sample app.
+* [Orleans Heroes](https://github.com/sketch7/orleans-heroes) ⭐ 71 | 🐛 4 | 🌐 C# | 📅 2026-07-06 - sample app.
 * [Orleans.Security](https://github.com/Async-Hub/Orleans.Security) ⭐ 40 | 🐛 6 | 🌐 C# | 📅 2024-10-17 - Authorization library for Microsoft Orleans
 * [Orleans Silo + Client on Azure App Service](https://github.com/bradygaster/OrleansOnAzureAppService) ⭐ 30 | 🐛 2 | 🌐 C# | 📅 2022-02-18 - This repository contains a simple solution with an Orleans Silo and an Orleans Client project.
 * [Orleans Silo + Client on Azure Container Apps](https://github.com/bradygaster/OrleansOnAzureContainerApps) ⭐ 20 | 🐛 0 | 🌐 C# | 📅 2022-04-21 - This repository contains a simple solution with an Orleans Silo and an Orleans Client project.
@@ -58,7 +58,7 @@ A collection of awesome things in the [Microsoft Orleans](https://github.com/dot
 * [Orleans.Sagas](https://github.com/OrleansContrib/Orleans.Sagas) ⭐ 168 | 🐛 9 | 🌐 C# | 📅 2024-04-04 - A distributed saga implementation for Orleans.
 * [Orleans.Http](https://github.com/OrleansContrib/Orleans.Http) ⭐ 109 | 🐛 15 | 🌐 C# | 📅 2022-12-08 - An HTTP API for Microsoft Orleans.
 * [Orleans.SyncWork](https://github.com/OrleansContrib/Orleans.SyncWork) ⭐ 76 | 🐛 0 | 🌐 C# | 📅 2026-07-13 - write long running CPU bound synchronous work, without becoming overloaded.
-* [Orleans.Indexing](https://github.com/OrleansContrib/Orleans.Indexing) ⭐ 49 | 🐛 5 | 🌐 C# | 📅 2021-09-05 - Indexing extension for Orleans.
+* [Orleans.Indexing](https://github.com/OrleansContrib/Orleans.Indexing) ⭐ 50 | 🐛 5 | 🌐 C# | 📅 2021-09-05 - Indexing extension for Orleans.
 * [Orleans.StorageProviderInterceptors](https://github.com/ElanHasson/Orleans.StorageProviderInterceptors) ⭐ 9 | 🐛 21 | 🌐 C# | 📅 2024-01-10 - Intercept grain storage provider calls for transparent encryption model state validation, or whatever you can dream up!
 
 ##### Templates
@@ -67,7 +67,7 @@ A collection of awesome things in the [Microsoft Orleans](https://github.com/dot
 
 ##### Projects built on Orleans
 
-* [SignalR.Orleans](https://github.com/OrleansContrib/SignalR.Orleans) ⭐ 310 | 🐛 27 | 🌐 C# | 📅 2026-02-05 - SignalR backend based on Orleans.
+* [SignalR.Orleans](https://github.com/OrleansContrib/SignalR.Orleans) ⭐ 311 | 🐛 27 | 🌐 C# | 📅 2026-02-05 - SignalR backend based on Orleans.
 * [OrleanSpaces](https://github.com/ledjon-behluli/OrleanSpaces) ⭐ 69 | 🐛 0 | 🌐 C# | 📅 2023-12-02 - A virtual, fully-asynchronous, Tuple Space implementation backed by Orleans.
 * [Orleans.SignalR](https://github.com/managedcode/Orleans.SignalR) ⭐ 37 | 🐛 0 | 🌐 C# | 📅 2026-04-02 - SignalR for Orleans, base on Streams, with all functions, including calling client methods and getting results.
 * [Trool.io](https://trool.io/) - A tech stack for Domain Driven Design with CQRS and Event Sourcing.
@@ -93,4 +93,4 @@ A collection of awesome things in the [Microsoft Orleans](https://github.com/dot
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-21._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-22._
