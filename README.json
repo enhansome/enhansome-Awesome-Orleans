@@ -7,6 +7,28 @@
           "children": [
             {
               "node_type": "item",
+              "title": "Orleans Meetups",
+              "description": "A repository to organise virtual meetups to discuss Orleans and other distributed systems programming on .NET",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 27715480,
+                "language": null,
+                "last_commit": "2021-05-25T20:33:36Z",
+                "owner": "OrleansContrib",
+                "repo": "meetups",
+                "stars": 80
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Community"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "Dotnet-Boxed Orleans Template",
               "description": "Orleans project template with batteries included, providing the minimum amount of code required to get you going.",
               "children": [],
@@ -114,6 +136,28 @@
           "description": null,
           "node_type": "group",
           "title": "Example Projects"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Road to Orleans",
+              "description": "Practical, real-life examples from basic to more advanced techniques.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 317179000,
+                "language": "C#",
+                "last_commit": "2025-02-06T16:31:54Z",
+                "owner": "PiotrJustyna",
+                "repo": "road-to-orleans",
+                "stars": 163
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Learning"
         },
         {
           "children": [
@@ -261,6 +305,50 @@
           "children": [
             {
               "node_type": "item",
+              "title": "OrleansDashboard",
+              "description": "A monitoring dashboard for Microsoft Orleans",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 48997516,
+                "language": "C#",
+                "last_commit": "2025-11-13T10:05:22Z",
+                "owner": "OrleansContrib",
+                "repo": "OrleansDashboard",
+                "stars": 761
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Monitoring"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "OrleansTestKit",
+              "description": "Unit Test Toolkit for Microsoft Orleans",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 82985175,
+                "language": "C#",
+                "last_commit": "2026-03-08T00:50:12Z",
+                "owner": "OrleansContrib",
+                "repo": "OrleansTestKit",
+                "stars": 93
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Testing"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "Orleankka",
               "description": "Functional API for Microsoft Orleans",
               "children": [],
@@ -358,6 +446,28 @@
           "children": [
             {
               "node_type": "item",
+              "title": "Orleans.Multiservice",
+              "description": "automated code structuring pattern for logical service separation within a Microsoft Orleans (micro)service.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 560015185,
+                "language": "C#",
+                "last_commit": "2026-05-29T16:48:01Z",
+                "owner": "VincentH-Net",
+                "repo": "Orleans.Multiservice",
+                "stars": 85
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Templates"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "SignalR.Orleans",
               "description": "SignalR backend based on Orleans.",
               "children": [],
@@ -411,7 +521,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T17:52:32.497Z",
+    "last_updated": "2026-08-24T14:34:59.897Z",
     "original_repository": "OrleansContrib/Awesome-Orleans",
     "original_repository_id": 455542234,
     "original_repository_sha": "5f67d180a2bfc97bd0342dc5caa6faeaee0c7982",

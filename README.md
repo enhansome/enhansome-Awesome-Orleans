@@ -1,8 +1,8 @@
 # Awesome Orleans with stars
 
-### **Awesome Orleans** [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 499,240 | 🐛 106 | 📅 2026-08-21
+### **Awesome Orleans** [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 499,520 | 🐛 106 | 📅 2026-08-21
 
-A collection of awesome things in the [Microsoft Orleans](https://github.com/dotnet/orleans) ⭐ 10,843 | 🐛 656 | 🌐 C# | 📅 2026-08-23 ecosystem.
+A collection of awesome things in the [Microsoft Orleans](https://github.com/dotnet/orleans) ⭐ 10,843 | 🐛 653 | 🌐 C# | 📅 2026-08-24 ecosystem.
 
 ##### Documentation
 
@@ -10,10 +10,10 @@ A collection of awesome things in the [Microsoft Orleans](https://github.com/dot
 
 ##### Community
 
+* [Orleans Meetups](https://github.com/OrleansContrib/meetups) ⭐ 80 | 🐛 1 | 📅 2021-05-25 - A repository to organise virtual meetups to discuss Orleans and other distributed systems programming on .NET
 * [Discord](https://aka.ms/orleans-discord) - Orleans discord server.
 * [@msftorleans](https://twitter.com/msftorleans) - Orleans twitter account.
 * [OrleansContrib](https://github.com/OrleansContrib/) - Orleans Contrib organisation on GitHub.
-* [Orleans Meetups](https://github.com/OrleansContrib/meetups) ⭐ 80 | 🐛 1 | 📅 2021-05-25 - A repository to organise virtual meetups to discuss Orleans and other distributed systems programming on .NET
 
 ##### Example Projects
 
@@ -27,8 +27,8 @@ A collection of awesome things in the [Microsoft Orleans](https://github.com/dot
 
 ##### Learning
 
-* [Modules on Microsoft Learn](https://docs.microsoft.com/en-us/learn/browse/?expanded=dotnet\&products=dotnet-orleans) - Orleans learning modules on Microsoft Learn.
 * [Road to Orleans](https://github.com/PiotrJustyna/road-to-orleans) ⭐ 163 | 🐛 43 | 🌐 C# | 📅 2025-02-06 - Practical, real-life examples from basic to more advanced techniques.
+* [Modules on Microsoft Learn](https://docs.microsoft.com/en-us/learn/browse/?expanded=dotnet\&products=dotnet-orleans) - Orleans learning modules on Microsoft Learn.
 * [Pluralsight Course](https://www.pluralsight.com/courses/microsoft-orleans-introduction) - Introduction to Microsoft Orleans Pluralsight Course.
 * [Udemy Course](https://www.udemy.com/course/complete-orleans-net-from-zero-to-hero/) - Complete Microsoft Orleans .NET: From Zero to Hero
 
@@ -93,4 +93,4 @@ A collection of awesome things in the [Microsoft Orleans](https://github.com/dot
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-23._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-24._
