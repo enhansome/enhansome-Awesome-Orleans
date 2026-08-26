@@ -315,7 +315,7 @@
                 "last_commit": "2025-11-13T10:05:22Z",
                 "owner": "OrleansContrib",
                 "repo": "OrleansDashboard",
-                "stars": 761
+                "stars": 762
               }
             }
           ],
@@ -478,7 +478,7 @@
                 "last_commit": "2026-02-05T00:55:26Z",
                 "owner": "OrleansContrib",
                 "repo": "SignalR.Orleans",
-                "stars": 311
+                "stars": 312
               }
             },
             {
@@ -521,7 +521,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T18:01:02.140Z",
+    "last_updated": "2026-08-26T19:25:03.735Z",
     "original_repository": "OrleansContrib/Awesome-Orleans",
     "original_repository_id": 455542234,
     "original_repository_sha": "5f67d180a2bfc97bd0342dc5caa6faeaee0c7982",

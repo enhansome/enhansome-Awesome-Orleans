@@ -1,8 +1,8 @@
 # Awesome Orleans with stars
 
-### **Awesome Orleans** [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 499,862 | 🐛 106 | 📅 2026-08-21
+### **Awesome Orleans** [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 500,183 | 🐛 105 | 📅 2026-08-21
 
-A collection of awesome things in the [Microsoft Orleans](https://github.com/dotnet/orleans) ⭐ 10,843 | 🐛 658 | 🌐 C# | 📅 2026-08-25 ecosystem.
+A collection of awesome things in the [Microsoft Orleans](https://github.com/dotnet/orleans) ⭐ 10,844 | 🐛 650 | 🌐 C# | 📅 2026-08-26 ecosystem.
 
 ##### Documentation
 
@@ -46,7 +46,7 @@ A collection of awesome things in the [Microsoft Orleans](https://github.com/dot
 
 ##### Monitoring
 
-* [OrleansDashboard](https://github.com/OrleansContrib/OrleansDashboard) ⭐ 761 | 🐛 39 | 🌐 C# | 📅 2025-11-13 - A monitoring dashboard for Microsoft Orleans
+* [OrleansDashboard](https://github.com/OrleansContrib/OrleansDashboard) ⭐ 762 | 🐛 39 | 🌐 C# | 📅 2025-11-13 - A monitoring dashboard for Microsoft Orleans
 
 ##### Testing
 
@@ -67,7 +67,7 @@ A collection of awesome things in the [Microsoft Orleans](https://github.com/dot
 
 ##### Projects built on Orleans
 
-* [SignalR.Orleans](https://github.com/OrleansContrib/SignalR.Orleans) ⭐ 311 | 🐛 27 | 🌐 C# | 📅 2026-02-05 - SignalR backend based on Orleans.
+* [SignalR.Orleans](https://github.com/OrleansContrib/SignalR.Orleans) ⭐ 312 | 🐛 27 | 🌐 C# | 📅 2026-02-05 - SignalR backend based on Orleans.
 * [OrleanSpaces](https://github.com/ledjon-behluli/OrleanSpaces) ⭐ 69 | 🐛 0 | 🌐 C# | 📅 2023-12-02 - A virtual, fully-asynchronous, Tuple Space implementation backed by Orleans.
 * [Orleans.SignalR](https://github.com/managedcode/Orleans.SignalR) ⭐ 37 | 🐛 0 | 🌐 C# | 📅 2026-04-02 - SignalR for Orleans, base on Streams, with all functions, including calling client methods and getting results.
 * [Trool.io](https://trool.io/) - A tech stack for Domain Driven Design with CQRS and Event Sourcing.
@@ -93,4 +93,4 @@ A collection of awesome things in the [Microsoft Orleans](https://github.com/dot
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-25._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-26._
