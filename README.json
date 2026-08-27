@@ -521,9 +521,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T19:25:03.735Z",
-    "original_repository": "OrleansContrib/Awesome-Orleans",
-    "original_repository_id": 455542234,
+    "last_updated": "2026-08-27T11:24:57.336Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 455542234,
+      "language": null,
+      "last_commit": "2023-12-29T23:44:49Z",
+      "owner": "OrleansContrib",
+      "repo": "Awesome-Orleans",
+      "stars": 166
+    },
     "original_repository_sha": "5f67d180a2bfc97bd0342dc5caa6faeaee0c7982",
     "enhanced_repository": "enhansome/enhansome-Awesome-Orleans",
     "enhanced_repository_description": null,
