@@ -18,7 +18,8 @@
                 "owner": "OrleansContrib",
                 "repo": "meetups",
                 "stars": 80
-              }
+              },
+              "first_seen": "2026-08-29T01:08:43.266Z"
             }
           ],
           "description": null,
@@ -36,11 +37,12 @@
                 "archived": false,
                 "id": 25810742,
                 "language": "C#",
-                "last_commit": "2026-08-11T23:12:02Z",
+                "last_commit": "2026-08-28T12:51:09Z",
                 "owner": "Dotnet-Boxed",
                 "repo": "Templates",
                 "stars": 3485
-              }
+              },
+              "first_seen": "2026-08-29T01:08:43.266Z"
             },
             {
               "node_type": "item",
@@ -55,7 +57,8 @@
                 "owner": "ReubenBond",
                 "repo": "hanbaobao-web",
                 "stars": 152
-              }
+              },
+              "first_seen": "2026-08-29T01:08:43.266Z"
             },
             {
               "node_type": "item",
@@ -70,7 +73,8 @@
                 "owner": "pmorelli92",
                 "repo": "Orleans.Tournament",
                 "stars": 77
-              }
+              },
+              "first_seen": "2026-08-29T01:08:43.266Z"
             },
             {
               "node_type": "item",
@@ -85,7 +89,8 @@
                 "owner": "sketch7",
                 "repo": "orleans-heroes",
                 "stars": 71
-              }
+              },
+              "first_seen": "2026-08-29T01:08:43.266Z"
             },
             {
               "node_type": "item",
@@ -100,7 +105,8 @@
                 "owner": "Async-Hub",
                 "repo": "Orleans.Security",
                 "stars": 40
-              }
+              },
+              "first_seen": "2026-08-29T01:08:43.266Z"
             },
             {
               "node_type": "item",
@@ -115,7 +121,8 @@
                 "owner": "bradygaster",
                 "repo": "OrleansOnAzureAppService",
                 "stars": 30
-              }
+              },
+              "first_seen": "2026-08-29T01:08:43.266Z"
             },
             {
               "node_type": "item",
@@ -130,7 +137,8 @@
                 "owner": "bradygaster",
                 "repo": "OrleansOnAzureContainerApps",
                 "stars": 20
-              }
+              },
+              "first_seen": "2026-08-29T01:08:43.266Z"
             }
           ],
           "description": null,
@@ -152,7 +160,8 @@
                 "owner": "PiotrJustyna",
                 "repo": "road-to-orleans",
                 "stars": 163
-              }
+              },
+              "first_seen": "2026-08-29T01:08:43.266Z"
             }
           ],
           "description": null,
@@ -174,7 +183,8 @@
                 "owner": "OrleansContrib",
                 "repo": "Orleans.Clustering.Kubernetes",
                 "stars": 201
-              }
+              },
+              "first_seen": "2026-08-29T01:08:43.266Z"
             },
             {
               "node_type": "item",
@@ -188,8 +198,9 @@
                 "last_commit": "2026-01-12T21:37:22Z",
                 "owner": "OrleansContrib",
                 "repo": "Orleans.Providers.MongoDB",
-                "stars": 113
-              }
+                "stars": 112
+              },
+              "first_seen": "2026-08-29T01:08:43.266Z"
             },
             {
               "node_type": "item",
@@ -204,7 +215,8 @@
                 "owner": "jonathansant",
                 "repo": "Orleans.Streams.Kafka",
                 "stars": 87
-              }
+              },
+              "first_seen": "2026-08-29T01:08:43.266Z"
             },
             {
               "node_type": "item",
@@ -219,7 +231,8 @@
                 "owner": "OrleansContrib",
                 "repo": "Orleans.Redis",
                 "stars": 72
-              }
+              },
+              "first_seen": "2026-08-29T01:08:43.266Z"
             },
             {
               "node_type": "item",
@@ -234,7 +247,8 @@
                 "owner": "OrleansContrib",
                 "repo": "Orleans.Providers.EntityFramework",
                 "stars": 53
-              }
+              },
+              "first_seen": "2026-08-29T01:08:43.266Z"
             },
             {
               "node_type": "item",
@@ -249,7 +263,8 @@
                 "owner": "OrleansContrib",
                 "repo": "Orleans.CosmosDB",
                 "stars": 40
-              }
+              },
+              "first_seen": "2026-08-29T01:08:43.266Z"
             },
             {
               "node_type": "item",
@@ -264,7 +279,8 @@
                 "owner": "OrleansContrib",
                 "repo": "Orleans.Providers.RabbitMQ",
                 "stars": 32
-              }
+              },
+              "first_seen": "2026-08-29T01:08:43.266Z"
             },
             {
               "node_type": "item",
@@ -279,7 +295,8 @@
                 "owner": "Surveily",
                 "repo": "Orleans.Streaming.Grains",
                 "stars": 24
-              }
+              },
+              "first_seen": "2026-08-29T01:08:43.266Z"
             },
             {
               "node_type": "item",
@@ -294,7 +311,8 @@
                 "owner": "OrleansContrib",
                 "repo": "Orleans.TelemetryConsumers.Datadog",
                 "stars": 3
-              }
+              },
+              "first_seen": "2026-08-29T01:08:43.266Z"
             }
           ],
           "description": null,
@@ -316,7 +334,8 @@
                 "owner": "OrleansContrib",
                 "repo": "OrleansDashboard",
                 "stars": 762
-              }
+              },
+              "first_seen": "2026-08-29T01:08:43.266Z"
             }
           ],
           "description": null,
@@ -338,7 +357,8 @@
                 "owner": "OrleansContrib",
                 "repo": "OrleansTestKit",
                 "stars": 93
-              }
+              },
+              "first_seen": "2026-08-29T01:08:43.266Z"
             }
           ],
           "description": null,
@@ -360,7 +380,8 @@
                 "owner": "OrleansContrib",
                 "repo": "Orleankka",
                 "stars": 507
-              }
+              },
+              "first_seen": "2026-08-29T01:08:43.266Z"
             },
             {
               "node_type": "item",
@@ -375,7 +396,8 @@
                 "owner": "OrleansContrib",
                 "repo": "Orleans.Sagas",
                 "stars": 168
-              }
+              },
+              "first_seen": "2026-08-29T01:08:43.266Z"
             },
             {
               "node_type": "item",
@@ -390,7 +412,8 @@
                 "owner": "OrleansContrib",
                 "repo": "Orleans.Http",
                 "stars": 109
-              }
+              },
+              "first_seen": "2026-08-29T01:08:43.266Z"
             },
             {
               "node_type": "item",
@@ -405,7 +428,8 @@
                 "owner": "OrleansContrib",
                 "repo": "Orleans.SyncWork",
                 "stars": 76
-              }
+              },
+              "first_seen": "2026-08-29T01:08:43.266Z"
             },
             {
               "node_type": "item",
@@ -420,7 +444,8 @@
                 "owner": "OrleansContrib",
                 "repo": "Orleans.Indexing",
                 "stars": 50
-              }
+              },
+              "first_seen": "2026-08-29T01:08:43.266Z"
             },
             {
               "node_type": "item",
@@ -435,7 +460,8 @@
                 "owner": "ElanHasson",
                 "repo": "Orleans.StorageProviderInterceptors",
                 "stars": 9
-              }
+              },
+              "first_seen": "2026-08-29T01:08:43.266Z"
             }
           ],
           "description": null,
@@ -457,7 +483,8 @@
                 "owner": "VincentH-Net",
                 "repo": "Orleans.Multiservice",
                 "stars": 85
-              }
+              },
+              "first_seen": "2026-08-29T01:08:43.266Z"
             }
           ],
           "description": null,
@@ -479,7 +506,8 @@
                 "owner": "OrleansContrib",
                 "repo": "SignalR.Orleans",
                 "stars": 312
-              }
+              },
+              "first_seen": "2026-08-29T01:08:43.266Z"
             },
             {
               "node_type": "item",
@@ -494,7 +522,8 @@
                 "owner": "ledjon-behluli",
                 "repo": "OrleanSpaces",
                 "stars": 69
-              }
+              },
+              "first_seen": "2026-08-29T01:08:43.266Z"
             },
             {
               "node_type": "item",
@@ -509,7 +538,8 @@
                 "owner": "managedcode",
                 "repo": "Orleans.SignalR",
                 "stars": 37
-              }
+              },
+              "first_seen": "2026-08-29T01:08:43.266Z"
             }
           ],
           "description": null,
@@ -521,7 +551,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T01:37:23.950Z",
+    "last_updated": "2026-08-29T01:08:43.266Z",
     "original_repository_info": {
       "archived": false,
       "id": 455542234,
