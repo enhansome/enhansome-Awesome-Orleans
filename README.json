@@ -12,12 +12,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": ":calendar: A repository to organise virtual meetups to discuss Orleans and other distributed systems programming on .NET",
+                "homepage": null,
                 "id": 27715480,
                 "language": null,
+                "license": null,
                 "last_commit": "2021-05-25T20:33:36Z",
+                "open_issues": 1,
                 "owner": "OrleansContrib",
                 "repo": "meetups",
-                "stars": 80
+                "stars": 80,
+                "topics": [
+                  "meetups",
+                  "orleans"
+                ]
               },
               "first_seen": "2026-08-29T01:08:43.266Z"
             }
@@ -35,12 +43,32 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": ".NET project templates with batteries included, providing the minimum amount of code required to get you going faster.",
+                "homepage": "https://RehanSaeed.com",
                 "id": 25810742,
                 "language": "C#",
+                "license": "MIT",
                 "last_commit": "2026-08-28T12:51:09Z",
+                "open_issues": 51,
                 "owner": "Dotnet-Boxed",
                 "repo": "Templates",
-                "stars": 3485
+                "stars": 3486,
+                "topics": [
+                  "api",
+                  "asp-net",
+                  "asp-net-core",
+                  "c-sharp",
+                  "docker",
+                  "dotnet",
+                  "dotnet-core",
+                  "dotnet-new",
+                  "graphql",
+                  "nuget",
+                  "orleans",
+                  "project-template",
+                  "swagger",
+                  "template"
+                ]
               },
               "first_seen": "2026-08-29T01:08:43.266Z"
             },
@@ -51,12 +79,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Orleans sample application with Kubernetes hosting",
+                "homepage": null,
                 "id": 330440191,
                 "language": "C#",
+                "license": "MIT",
                 "last_commit": "2021-06-03T17:45:27Z",
+                "open_issues": 2,
                 "owner": "ReubenBond",
                 "repo": "hanbaobao-web",
-                "stars": 152
+                "stars": 152,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:08:43.266Z"
             },
@@ -67,12 +100,30 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Orleans sample with clustering, implicit stream handling, authentication, authorization, websockets",
+                "homepage": null,
                 "id": 147096873,
                 "language": "C#",
+                "license": "MIT",
                 "last_commit": "2024-05-09T15:37:57Z",
+                "open_issues": 2,
                 "owner": "pmorelli92",
                 "repo": "Orleans.Tournament",
-                "stars": 77
+                "stars": 77,
+                "topics": [
+                  "actor-model",
+                  "authentication",
+                  "authorization",
+                  "clustering",
+                  "ddd",
+                  "metrics",
+                  "netcore",
+                  "orleans",
+                  "projection",
+                  "reactive",
+                  "stream",
+                  "websockets"
+                ]
               },
               "first_seen": "2026-08-29T01:08:43.266Z"
             },
@@ -83,12 +134,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Microsoft Orleans sample app",
+                "homepage": null,
                 "id": 122242664,
                 "language": "C#",
+                "license": null,
                 "last_commit": "2026-07-06T06:04:41Z",
+                "open_issues": 4,
                 "owner": "sketch7",
                 "repo": "orleans-heroes",
-                "stars": 71
+                "stars": 71,
+                "topics": [
+                  "angular",
+                  "graphql",
+                  "hacktoberfest",
+                  "orleans",
+                  "sample",
+                  "signalr"
+                ]
               },
               "first_seen": "2026-08-29T01:08:43.266Z"
             },
@@ -99,12 +162,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Authorization library for Microsoft Orleans",
+                "homepage": "https://orlsec.asynchub.org/",
                 "id": 164672352,
                 "language": "C#",
+                "license": "MIT",
                 "last_commit": "2024-10-17T14:00:17Z",
+                "open_issues": 6,
                 "owner": "Async-Hub",
                 "repo": "Orleans.Security",
-                "stars": 40
+                "stars": 40,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:08:43.266Z"
             },
@@ -115,12 +183,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 452977153,
                 "language": "C#",
+                "license": null,
                 "last_commit": "2022-02-18T00:27:11Z",
+                "open_issues": 2,
                 "owner": "bradygaster",
                 "repo": "OrleansOnAzureAppService",
-                "stars": 30
+                "stars": 30,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:08:43.266Z"
             },
@@ -131,12 +204,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 452406187,
                 "language": "C#",
+                "license": null,
                 "last_commit": "2022-04-21T16:35:39Z",
+                "open_issues": 0,
                 "owner": "bradygaster",
                 "repo": "OrleansOnAzureContainerApps",
-                "stars": 20
+                "stars": 20,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:08:43.266Z"
             }
@@ -154,12 +232,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "This repository illustrates the road to orleans with practical, real-life examples. From most basic, to more advanced techniques.",
+                "homepage": null,
                 "id": 317179000,
                 "language": "C#",
+                "license": "MIT",
                 "last_commit": "2025-02-06T16:31:54Z",
+                "open_issues": 43,
                 "owner": "PiotrJustyna",
                 "repo": "road-to-orleans",
-                "stars": 163
+                "stars": 163,
+                "topics": [
+                  "actor-model",
+                  "cancellationtoken",
+                  "configuration",
+                  "containers",
+                  "csharp",
+                  "datadog",
+                  "distributed-systems",
+                  "docker",
+                  "dynamodb",
+                  "feature-flags",
+                  "featuremanagement",
+                  "fsharp",
+                  "grains",
+                  "orleans",
+                  "orleans-cluster",
+                  "orleans-example",
+                  "orleans-grains",
+                  "silo",
+                  "unittest",
+                  "webapi"
+                ]
               },
               "first_seen": "2026-08-29T01:08:43.266Z"
             }
@@ -177,12 +281,31 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Orleans Membership provider for Kubernetes ",
+                "homepage": null,
                 "id": 120435823,
                 "language": "C#",
+                "license": "MIT",
                 "last_commit": "2026-03-23T16:04:20Z",
+                "open_issues": 14,
                 "owner": "OrleansContrib",
                 "repo": "Orleans.Clustering.Kubernetes",
-                "stars": 201
+                "stars": 201,
+                "topics": [
+                  "actor-framework",
+                  "actor-model",
+                  "azure",
+                  "distributed-computing",
+                  "distributed-systems",
+                  "dotnet-core",
+                  "kubernetes",
+                  "kubernetes-api",
+                  "kubernetes-cluster",
+                  "orleans",
+                  "orleans-cluster",
+                  "orleans-framework",
+                  "virtual-actors"
+                ]
               },
               "first_seen": "2026-08-29T01:08:43.266Z"
             },
@@ -193,12 +316,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A MongoDb implementation of the Orleans Providers: Membership, Storage and Reminders.",
+                "homepage": null,
                 "id": 69606984,
                 "language": "C#",
+                "license": "MIT",
                 "last_commit": "2026-01-12T21:37:22Z",
+                "open_issues": 4,
                 "owner": "OrleansContrib",
                 "repo": "Orleans.Providers.MongoDB",
-                "stars": 112
+                "stars": 112,
+                "topics": [
+                  "mongodb",
+                  "orleans",
+                  "orleans-storage-provider"
+                ]
               },
               "first_seen": "2026-08-29T01:08:43.266Z"
             },
@@ -209,12 +341,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An implementation of a PersistentStreamProvider for Microsoft Orleans and Kafka using the Confluent API",
+                "homepage": null,
                 "id": 128621401,
                 "language": "C#",
+                "license": "GPL-3.0",
                 "last_commit": "2024-02-29T13:47:20Z",
+                "open_issues": 20,
                 "owner": "jonathansant",
                 "repo": "Orleans.Streams.Kafka",
-                "stars": 87
+                "stars": 87,
+                "topics": [
+                  "avro",
+                  "confluent",
+                  "kafka",
+                  "orleans",
+                  "schema-registry",
+                  "streams"
+                ]
               },
               "first_seen": "2026-08-29T01:08:43.266Z"
             },
@@ -225,12 +369,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Redis support packages for Orleans",
+                "homepage": null,
                 "id": 253841199,
                 "language": "C#",
+                "license": "MIT",
                 "last_commit": "2024-01-10T14:24:39Z",
+                "open_issues": 17,
                 "owner": "OrleansContrib",
                 "repo": "Orleans.Redis",
-                "stars": 72
+                "stars": 72,
+                "topics": [
+                  "orleans",
+                  "redis"
+                ]
               },
               "first_seen": "2026-08-29T01:08:43.266Z"
             },
@@ -241,12 +393,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An Entity Framework Core implementation of Orleans Grain Storage. More providers to come later.",
+                "homepage": null,
                 "id": 147560103,
                 "language": "C#",
+                "license": "MIT",
                 "last_commit": "2024-03-08T13:37:06Z",
+                "open_issues": 6,
                 "owner": "OrleansContrib",
                 "repo": "Orleans.Providers.EntityFramework",
-                "stars": 53
+                "stars": 53,
+                "topics": [
+                  "entity-framework-core",
+                  "orleans",
+                  "orleans-storage-provider"
+                ]
               },
               "first_seen": "2026-08-29T01:08:43.266Z"
             },
@@ -257,12 +418,32 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Orleans providers for Azure Cosmos DB",
+                "homepage": null,
                 "id": 118158031,
                 "language": "C#",
+                "license": "MIT",
                 "last_commit": "2023-07-09T17:24:00Z",
+                "open_issues": 18,
                 "owner": "OrleansContrib",
                 "repo": "Orleans.CosmosDB",
-                "stars": 40
+                "stars": 40,
+                "topics": [
+                  "actor-framework",
+                  "actor-model",
+                  "azure",
+                  "cosmosdb",
+                  "distributed-computing",
+                  "distributed-systems",
+                  "document-database",
+                  "documentdb",
+                  "dotnet-core",
+                  "orleans",
+                  "orleans-cluster",
+                  "orleans-framework",
+                  "orleans-storage-provider",
+                  "virtual-actors"
+                ]
               },
               "first_seen": "2026-08-29T01:08:43.266Z"
             },
@@ -273,12 +454,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Orleans providers for RabbitMQ.",
+                "homepage": null,
                 "id": 82738883,
                 "language": "C#",
+                "license": "MIT",
                 "last_commit": "2021-11-07T13:42:10Z",
+                "open_issues": 1,
                 "owner": "OrleansContrib",
                 "repo": "Orleans.Providers.RabbitMQ",
-                "stars": 32
+                "stars": 32,
+                "topics": [
+                  "orleans",
+                  "orleans-streaming-provider",
+                  "rabbitmq"
+                ]
               },
               "first_seen": "2026-08-29T01:08:43.266Z"
             },
@@ -289,12 +479,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 665995916,
                 "language": "C#",
+                "license": "MIT",
                 "last_commit": "2026-01-27T13:49:38Z",
+                "open_issues": 3,
                 "owner": "Surveily",
                 "repo": "Orleans.Streaming.Grains",
-                "stars": 24
+                "stars": 24,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:08:43.266Z"
             },
@@ -305,12 +500,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Orleans integration package for Datadog.",
+                "homepage": null,
                 "id": 383489537,
                 "language": "C#",
+                "license": "MIT",
                 "last_commit": "2021-08-05T13:29:36Z",
+                "open_issues": 0,
                 "owner": "OrleansContrib",
                 "repo": "Orleans.TelemetryConsumers.Datadog",
-                "stars": 3
+                "stars": 3,
+                "topics": [
+                  "apm",
+                  "datadog",
+                  "orleans",
+                  "telemetry"
+                ]
               },
               "first_seen": "2026-08-29T01:08:43.266Z"
             }
@@ -328,12 +533,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": ":bar_chart: A developer dashboard for Microsoft Orleans",
+                "homepage": null,
                 "id": 48997516,
                 "language": "C#",
+                "license": "MIT",
                 "last_commit": "2025-11-13T10:05:22Z",
+                "open_issues": 39,
                 "owner": "OrleansContrib",
                 "repo": "OrleansDashboard",
-                "stars": 762
+                "stars": 762,
+                "topics": [
+                  "dashboard",
+                  "orleans"
+                ]
               },
               "first_seen": "2026-08-29T01:08:43.266Z"
             }
@@ -351,12 +564,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Unit Test Toolkit for Microsoft Orleans",
+                "homepage": "http://dotnet.github.io/orleans",
                 "id": 82985175,
                 "language": "C#",
+                "license": "MIT",
                 "last_commit": "2026-03-08T00:50:12Z",
+                "open_issues": 7,
                 "owner": "OrleansContrib",
                 "repo": "OrleansTestKit",
-                "stars": 93
+                "stars": 93,
+                "topics": [
+                  "dotnet",
+                  "dotnet-core",
+                  "orleans",
+                  "test",
+                  "testing",
+                  "testkit"
+                ]
               },
               "first_seen": "2026-08-29T01:08:43.266Z"
             }
@@ -374,12 +599,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Functional API for Microsoft Orleans http://orleanscontrib.github.io/Orleankka",
+                "homepage": null,
                 "id": 29269234,
                 "language": "C#",
+                "license": "Apache-2.0",
                 "last_commit": "2025-12-15T21:25:35Z",
+                "open_issues": 3,
                 "owner": "OrleansContrib",
                 "repo": "Orleankka",
-                "stars": 507
+                "stars": 507,
+                "topics": [
+                  "actors",
+                  "cqrs",
+                  "event-sourcing",
+                  "fsm",
+                  "functional",
+                  "orleans"
+                ]
               },
               "first_seen": "2026-08-29T01:08:43.266Z"
             },
@@ -390,12 +627,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A distributed saga implementation for Orleans",
+                "homepage": null,
                 "id": 102509884,
                 "language": "C#",
+                "license": "MIT",
                 "last_commit": "2024-04-04T09:19:53Z",
+                "open_issues": 9,
                 "owner": "OrleansContrib",
                 "repo": "Orleans.Sagas",
-                "stars": 168
+                "stars": 168,
+                "topics": [
+                  "csharp",
+                  "dotnet",
+                  "dotnet-standard",
+                  "failure-management",
+                  "orleans",
+                  "sagas",
+                  "workflow"
+                ]
               },
               "first_seen": "2026-08-29T01:08:43.266Z"
             },
@@ -406,12 +656,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An HTTP API for Microsoft Orleans",
+                "homepage": null,
                 "id": 50843476,
                 "language": "C#",
+                "license": null,
                 "last_commit": "2022-12-08T06:17:27Z",
+                "open_issues": 15,
                 "owner": "OrleansContrib",
                 "repo": "Orleans.Http",
-                "stars": 109
+                "stars": 109,
+                "topics": [
+                  "api",
+                  "http",
+                  "orleans"
+                ]
               },
               "first_seen": "2026-08-29T01:08:43.266Z"
             },
@@ -422,12 +681,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "This package's intention is to expose an abstract base class to allow https://github.com/dotnet/orleans/ to work with long running CPU bound synchronous work, without becoming overloaded.",
+                "homepage": "https://OrleansContrib.github.io/Orleans.SyncWork",
                 "id": 429917687,
                 "language": "C#",
+                "license": "MIT",
                 "last_commit": "2026-07-13T23:40:06Z",
+                "open_issues": 0,
                 "owner": "OrleansContrib",
                 "repo": "Orleans.SyncWork",
-                "stars": 76
+                "stars": 76,
+                "topics": [
+                  "actor-model",
+                  "csharp",
+                  "dotnet-core",
+                  "hacktoberfest",
+                  "orleans",
+                  "orleans-example",
+                  "orleans-grains"
+                ]
               },
               "first_seen": "2026-08-29T01:08:43.266Z"
             },
@@ -438,12 +710,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 201334791,
                 "language": "C#",
+                "license": "MIT",
                 "last_commit": "2021-09-05T20:28:54Z",
+                "open_issues": 5,
                 "owner": "OrleansContrib",
                 "repo": "Orleans.Indexing",
-                "stars": 50
+                "stars": 50,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:08:43.266Z"
             },
@@ -454,12 +731,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An interceptor library for Orleans Storage Providers allowing interception of grain storage provider operations for transparent encryption, model state validation, or whatever else you can dream up!",
+                "homepage": null,
                 "id": 522126793,
                 "language": "C#",
+                "license": "MIT",
                 "last_commit": "2024-01-10T23:49:26Z",
+                "open_issues": 21,
                 "owner": "ElanHasson",
                 "repo": "Orleans.StorageProviderInterceptors",
-                "stars": 9
+                "stars": 9,
+                "topics": [
+                  "orleans",
+                  "orleans-grains",
+                  "orleans-storage-provider"
+                ]
               },
               "first_seen": "2026-08-29T01:08:43.266Z"
             }
@@ -477,12 +763,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Prevent microservices pain with logical service separation in a modular monolith for Microsoft Orleans 9",
+                "homepage": null,
                 "id": 560015185,
                 "language": "C#",
+                "license": "MIT",
                 "last_commit": "2026-05-29T16:48:01Z",
+                "open_issues": 0,
                 "owner": "VincentH-Net",
                 "repo": "Orleans.Multiservice",
-                "stars": 85
+                "stars": 85,
+                "topics": [
+                  "distributed-systems",
+                  "dotnet-core",
+                  "microservices",
+                  "microservices-architecture",
+                  "modular-monolith",
+                  "orleans",
+                  "orleans-applications",
+                  "orleans-example"
+                ]
               },
               "first_seen": "2026-08-29T01:08:43.266Z"
             }
@@ -500,12 +800,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "SignalR backend based on Orleans.",
+                "homepage": null,
                 "id": 109354214,
                 "language": "C#",
+                "license": "MIT",
                 "last_commit": "2026-02-05T00:55:26Z",
+                "open_issues": 27,
                 "owner": "OrleansContrib",
                 "repo": "SignalR.Orleans",
-                "stars": 312
+                "stars": 312,
+                "topics": [
+                  "aspnet-core",
+                  "backplane",
+                  "dotnet-core",
+                  "orleans",
+                  "orleans-cluster",
+                  "real-time",
+                  "realtime-messaging",
+                  "signalr"
+                ]
               },
               "first_seen": "2026-08-29T01:08:43.266Z"
             },
@@ -516,12 +830,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A virtual, fully-asynchronous, Tuple Space implementation backed by Orleans.",
+                "homepage": null,
                 "id": 524510118,
                 "language": "C#",
+                "license": "Apache-2.0",
                 "last_commit": "2023-12-02T21:26:51Z",
+                "open_issues": 0,
                 "owner": "ledjon-behluli",
                 "repo": "OrleanSpaces",
-                "stars": 69
+                "stars": 69,
+                "topics": [
+                  "concurrent-programming",
+                  "distributed-computing",
+                  "dotnet",
+                  "orleans",
+                  "sba",
+                  "tuple-space"
+                ]
               },
               "first_seen": "2026-08-29T01:08:43.266Z"
             },
@@ -532,12 +858,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Orleans.SignalR is a lightweight, open-source library that enables easy integration of SignalR with Orleans, a distributed virtual actor model framework for building scalable, fault-tolerant systems. The library provides a SignalR backplane, allowing you to effortlessly add real-time communication capabilities to your distributed systems.",
+                "homepage": null,
                 "id": 623346093,
                 "language": "C#",
+                "license": "MIT",
                 "last_commit": "2026-04-02T07:08:15Z",
+                "open_issues": 0,
                 "owner": "managedcode",
                 "repo": "Orleans.SignalR",
-                "stars": 37
+                "stars": 37,
+                "topics": [
+                  "orleans",
+                  "signalr",
+                  "signalr-server"
+                ]
               },
               "first_seen": "2026-08-29T01:08:43.266Z"
             }
@@ -551,15 +886,25 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T01:08:43.266Z",
+    "last_updated": "2026-08-29T04:54:24.133Z",
     "original_repository_info": {
       "archived": false,
+      "description": ":sunglasses: Awesome Microsoft Orleans Projects",
+      "homepage": null,
       "id": 455542234,
       "language": null,
+      "license": "MIT",
       "last_commit": "2023-12-29T23:44:49Z",
+      "open_issues": 0,
       "owner": "OrleansContrib",
       "repo": "Awesome-Orleans",
-      "stars": 166
+      "stars": 166,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "dotnet",
+        "orleans"
+      ]
     },
     "original_repository_sha": "5f67d180a2bfc97bd0342dc5caa6faeaee0c7982",
     "enhanced_repository": "enhansome/enhansome-Awesome-Orleans",
