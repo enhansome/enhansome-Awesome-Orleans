@@ -1,8 +1,8 @@
 # Awesome Orleans with stars
 
-### **Awesome Orleans** [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 501,122 | 🐛 105 | 📅 2026-08-21
+### **Awesome Orleans** [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 501,405 | 🐛 105 | 📅 2026-08-21
 
-A collection of awesome things in the [Microsoft Orleans](https://github.com/dotnet/orleans) ⭐ 10,851 | 🐛 682 | 🌐 C# | 📅 2026-08-29 ecosystem.
+A collection of awesome things in the [Microsoft Orleans](https://github.com/dotnet/orleans) ⭐ 10,853 | 🐛 683 | 🌐 C# | 📅 2026-08-30 ecosystem.
 
 ##### Documentation
 
@@ -17,7 +17,7 @@ A collection of awesome things in the [Microsoft Orleans](https://github.com/dot
 
 ##### Example Projects
 
-* [Dotnet-Boxed Orleans Template](https://github.com/Dotnet-Boxed/Templates/blob/main/Docs/Orleans.md) ⭐ 3,486 | 🐛 51 | 🌐 C# | 📅 2026-08-28 - Orleans project template with batteries included, providing the minimum amount of code required to get you going.
+* [Dotnet-Boxed Orleans Template](https://github.com/Dotnet-Boxed/Templates/blob/main/Docs/Orleans.md) ⭐ 3,486 | 🐛 51 | 🌐 C# | 📅 2026-08-30 - Orleans project template with batteries included, providing the minimum amount of code required to get you going.
 * [HanBaoBao](https://github.com/ReubenBond/hanbaobao-web) ⭐ 152 | 🐛 2 | 🌐 C# | 📅 2021-06-03 - A Mandarin/English bilingual dictionary built with a VueJS Web frontend, demonstrating Kubernetes deployment on AKS
 * [Orleans.Tournament](https://github.com/pmorelli92/Orleans.Tournament) ⭐ 77 | 🐛 2 | 🌐 C# | 📅 2024-05-09 - Orleans sample with clustering, implicit stream handling, authentication, authorization, websockets.
 * [Orleans Heroes](https://github.com/sketch7/orleans-heroes) ⭐ 71 | 🐛 4 | 🌐 C# | 📅 2026-07-06 - sample app.
@@ -93,4 +93,4 @@ A collection of awesome things in the [Microsoft Orleans](https://github.com/dot
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-29._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-30._
