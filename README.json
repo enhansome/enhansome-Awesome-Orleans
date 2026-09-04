@@ -48,7 +48,7 @@
                 "id": 25810742,
                 "language": "C#",
                 "license": "MIT",
-                "last_commit": "2026-08-30T13:06:30Z",
+                "last_commit": "2026-09-04T19:17:45Z",
                 "open_issues": 51,
                 "owner": "Dotnet-Boxed",
                 "repo": "Templates",
@@ -686,8 +686,8 @@
                 "id": 429917687,
                 "language": "C#",
                 "license": "MIT",
-                "last_commit": "2026-09-03T14:21:49Z",
-                "open_issues": 2,
+                "last_commit": "2026-09-03T22:36:13Z",
+                "open_issues": 0,
                 "owner": "OrleansContrib",
                 "repo": "Orleans.SyncWork",
                 "stars": 76,
@@ -886,7 +886,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-03T20:06:17.290Z",
+    "last_updated": "2026-09-04T19:49:34.693Z",
     "original_repository_info": {
       "archived": false,
       "description": ":sunglasses: Awesome Microsoft Orleans Projects",
