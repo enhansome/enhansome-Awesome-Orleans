@@ -48,11 +48,11 @@
                 "id": 25810742,
                 "language": "C#",
                 "license": "MIT",
-                "last_commit": "2026-09-04T19:17:45Z",
+                "last_commit": "2026-09-05T17:33:50Z",
                 "open_issues": 51,
                 "owner": "Dotnet-Boxed",
                 "repo": "Templates",
-                "stars": 3487,
+                "stars": 3484,
                 "topics": [
                   "api",
                   "asp-net",
@@ -886,7 +886,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-04T19:49:34.693Z",
+    "last_updated": "2026-09-05T19:26:05.258Z",
     "original_repository_info": {
       "archived": false,
       "description": ":sunglasses: Awesome Microsoft Orleans Projects",
