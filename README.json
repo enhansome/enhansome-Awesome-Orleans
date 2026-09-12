@@ -139,8 +139,8 @@
                 "id": 122242664,
                 "language": "C#",
                 "license": null,
-                "last_commit": "2026-07-06T06:04:41Z",
-                "open_issues": 4,
+                "last_commit": "2026-09-12T18:39:21Z",
+                "open_issues": 5,
                 "owner": "sketch7",
                 "repo": "orleans-heroes",
                 "stars": 71,
@@ -325,7 +325,7 @@
                 "open_issues": 4,
                 "owner": "OrleansContrib",
                 "repo": "Orleans.Providers.MongoDB",
-                "stars": 112,
+                "stars": 113,
                 "topics": [
                   "mongodb",
                   "orleans",
@@ -608,7 +608,7 @@
                 "open_issues": 3,
                 "owner": "OrleansContrib",
                 "repo": "Orleankka",
-                "stars": 507,
+                "stars": 506,
                 "topics": [
                   "actors",
                   "cqrs",
@@ -886,7 +886,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-11T19:59:54.867Z",
+    "last_updated": "2026-09-12T19:37:09.258Z",
     "original_repository_info": {
       "archived": false,
       "description": ":sunglasses: Awesome Microsoft Orleans Projects",
