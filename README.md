@@ -1,8 +1,8 @@
 # Awesome Orleans with stars
 
-### **Awesome Orleans** [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 505,708 | 🐛 106 | 📅 2026-09-02
+### **Awesome Orleans** [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 506,030 | 🐛 106 | 📅 2026-09-02
 
-A collection of awesome things in the [Microsoft Orleans](https://github.com/dotnet/orleans) ⭐ 10,861 | 🐛 630 | 🌐 C# | 📅 2026-09-13 ecosystem.
+A collection of awesome things in the [Microsoft Orleans](https://github.com/dotnet/orleans) ⭐ 10,860 | 🐛 623 | 🌐 C# | 📅 2026-09-14 ecosystem.
 
 ##### Documentation
 
@@ -35,7 +35,7 @@ A collection of awesome things in the [Microsoft Orleans](https://github.com/dot
 ##### Providers
 
 * [Orleans.Clustering.Kubernetes](https://github.com/OrleansContrib/Orleans.Clustering.Kubernetes) ⭐ 201 | 🐛 14 | 🌐 C# | 📅 2026-03-23 - Orleans Membership provider for Kubernetes
-* [Orleans.Providers.MongoDB](https://github.com/OrleansContrib/Orleans.Providers.MongoDB) ⭐ 113 | 🐛 4 | 🌐 C# | 📅 2026-01-12 - A MongoDb providers for Membership, Storage and Reminders.
+* [Orleans.Providers.MongoDB](https://github.com/OrleansContrib/Orleans.Providers.MongoDB) ⭐ 113 | 🐛 5 | 🌐 C# | 📅 2026-01-12 - A MongoDb providers for Membership, Storage and Reminders.
 * [Orleans.Streams.Kafka](https://github.com/jonathansant/Orleans.Streams.Kafka) ⭐ 87 | 🐛 20 | 🌐 C# | 📅 2024-02-29 - An implementation of a PersistentStreamProvider for Microsoft Orleans and Kafka using the Confluent API.
 * [Orleans.Redis](https://github.com/OrleansContrib/Orleans.Redis) ⭐ 72 | 🐛 17 | 🌐 C# | 📅 2024-01-10 - Persistence and Clustering providers for Orleans
 * [Orleans.Providers.EntityFramework](https://github.com/OrleansContrib/Orleans.Providers.EntityFramework) ⭐ 53 | 🐛 6 | 🌐 C# | 📅 2024-03-08 - An Entity Framework Core implementation of Orleans Grain Storage.
@@ -93,4 +93,4 @@ A collection of awesome things in the [Microsoft Orleans](https://github.com/dot
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-13._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-14._
