@@ -1,8 +1,8 @@
 # Awesome Orleans with stars
 
-### **Awesome Orleans** [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 507,121 | 🐛 106 | 📅 2026-09-02
+### **Awesome Orleans** [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 507,478 | 🐛 106 | 📅 2026-09-02
 
-A collection of awesome things in the [Microsoft Orleans](https://github.com/dotnet/orleans) ⭐ 10,865 | 🐛 612 | 🌐 C# | 📅 2026-09-17 ecosystem.
+A collection of awesome things in the [Microsoft Orleans](https://github.com/dotnet/orleans) ⭐ 10,866 | 🐛 619 | 🌐 C# | 📅 2026-09-18 ecosystem.
 
 ##### Documentation
 
@@ -20,7 +20,7 @@ A collection of awesome things in the [Microsoft Orleans](https://github.com/dot
 * [Dotnet-Boxed Orleans Template](https://github.com/Dotnet-Boxed/Templates/blob/main/Docs/Orleans.md) ⭐ 3,484 | 🐛 51 | 🌐 C# | 📅 2026-09-09 - Orleans project template with batteries included, providing the minimum amount of code required to get you going.
 * [HanBaoBao](https://github.com/ReubenBond/hanbaobao-web) ⭐ 153 | 🐛 2 | 🌐 C# | 📅 2021-06-03 - A Mandarin/English bilingual dictionary built with a VueJS Web frontend, demonstrating Kubernetes deployment on AKS
 * [Orleans.Tournament](https://github.com/pmorelli92/Orleans.Tournament) ⭐ 77 | 🐛 2 | 🌐 C# | 📅 2024-05-09 - Orleans sample with clustering, implicit stream handling, authentication, authorization, websockets.
-* [Orleans Heroes](https://github.com/sketch7/orleans-heroes) ⭐ 71 | 🐛 5 | 🌐 C# | 📅 2026-09-17 - sample app.
+* [Orleans Heroes](https://github.com/sketch7/orleans-heroes) ⭐ 71 | 🐛 4 | 🌐 C# | 📅 2026-09-18 - sample app.
 * [Orleans.Security](https://github.com/Async-Hub/Orleans.Security) ⭐ 40 | 🐛 6 | 🌐 C# | 📅 2024-10-17 - Authorization library for Microsoft Orleans
 * [Orleans Silo + Client on Azure App Service](https://github.com/bradygaster/OrleansOnAzureAppService) ⭐ 30 | 🐛 2 | 🌐 C# | 📅 2022-02-18 - This repository contains a simple solution with an Orleans Silo and an Orleans Client project.
 * [Orleans Silo + Client on Azure Container Apps](https://github.com/bradygaster/OrleansOnAzureContainerApps) ⭐ 20 | 🐛 0 | 🌐 C# | 📅 2022-04-21 - This repository contains a simple solution with an Orleans Silo and an Orleans Client project.
@@ -93,4 +93,4 @@ A collection of awesome things in the [Microsoft Orleans](https://github.com/dot
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-17._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-18._
