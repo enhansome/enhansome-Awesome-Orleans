@@ -1,8 +1,8 @@
 # Awesome Orleans with stars
 
-### **Awesome Orleans** [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 513,246 | 🐛 106 | 📅 2026-09-02
+### **Awesome Orleans** [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 513,701 | 🐛 106 | 📅 2026-09-02
 
-A collection of awesome things in the [Microsoft Orleans](https://github.com/dotnet/orleans) ⭐ 10,875 | 🐛 625 | 🌐 C# | 📅 2026-10-01 ecosystem.
+A collection of awesome things in the [Microsoft Orleans](https://github.com/dotnet/orleans) ⭐ 10,888 | 🐛 621 | 🌐 C# | 📅 2026-10-02 ecosystem.
 
 ##### Documentation
 
@@ -10,14 +10,14 @@ A collection of awesome things in the [Microsoft Orleans](https://github.com/dot
 
 ##### Community
 
-* [Orleans Meetups](https://github.com/OrleansContrib/meetups) ⭐ 80 | 🐛 1 | 📅 2021-05-25 - A repository to organise virtual meetups to discuss Orleans and other distributed systems programming on .NET
+* [Orleans Meetups](https://github.com/OrleansContrib/meetups) ⭐ 79 | 🐛 1 | 📅 2021-05-25 - A repository to organise virtual meetups to discuss Orleans and other distributed systems programming on .NET
 * [Discord](https://aka.ms/orleans-discord) - Orleans discord server.
 * [@msftorleans](https://twitter.com/msftorleans) - Orleans twitter account.
 * [OrleansContrib](https://github.com/OrleansContrib/) - Orleans Contrib organisation on GitHub.
 
 ##### Example Projects
 
-* [Dotnet-Boxed Orleans Template](https://github.com/Dotnet-Boxed/Templates/blob/main/Docs/Orleans.md) ⭐ 3,484 | 🐛 51 | 🌐 C# | 📅 2026-09-09 - Orleans project template with batteries included, providing the minimum amount of code required to get you going.
+* [Dotnet-Boxed Orleans Template](https://github.com/Dotnet-Boxed/Templates/blob/main/Docs/Orleans.md) ⭐ 3,483 | 🐛 51 | 🌐 C# | 📅 2026-09-09 - Orleans project template with batteries included, providing the minimum amount of code required to get you going.
 * [HanBaoBao](https://github.com/ReubenBond/hanbaobao-web) ⭐ 153 | 🐛 2 | 🌐 C# | 📅 2021-06-03 - A Mandarin/English bilingual dictionary built with a VueJS Web frontend, demonstrating Kubernetes deployment on AKS
 * [Orleans.Tournament](https://github.com/pmorelli92/Orleans.Tournament) ⭐ 77 | 🐛 2 | 🌐 C# | 📅 2024-05-09 - Orleans sample with clustering, implicit stream handling, authentication, authorization, websockets.
 * [Orleans Heroes](https://github.com/sketch7/orleans-heroes) ⭐ 71 | 🐛 4 | 🌐 C# | 📅 2026-09-18 - sample app.
@@ -46,7 +46,7 @@ A collection of awesome things in the [Microsoft Orleans](https://github.com/dot
 
 ##### Monitoring
 
-* [OrleansDashboard](https://github.com/OrleansContrib/OrleansDashboard) ⭐ 762 | 🐛 39 | 🌐 C# | 📅 2025-11-13 - A monitoring dashboard for Microsoft Orleans
+* [OrleansDashboard](https://github.com/OrleansContrib/OrleansDashboard) ⭐ 761 | 🐛 39 | 🌐 C# | 📅 2025-11-13 - A monitoring dashboard for Microsoft Orleans
 
 ##### Testing
 
@@ -54,9 +54,9 @@ A collection of awesome things in the [Microsoft Orleans](https://github.com/dot
 
 ##### Extensions
 
-* [Orleankka](https://github.com/OrleansContrib/Orleankka) ⭐ 506 | 🐛 3 | 🌐 C# | 📅 2025-12-15 - Functional API for Microsoft Orleans
+* [Orleankka](https://github.com/OrleansContrib/Orleankka) ⭐ 505 | 🐛 3 | 🌐 C# | 📅 2025-12-15 - Functional API for Microsoft Orleans
 * [Orleans.Sagas](https://github.com/OrleansContrib/Orleans.Sagas) ⭐ 168 | 🐛 9 | 🌐 C# | 📅 2024-04-04 - A distributed saga implementation for Orleans.
-* [Orleans.Http](https://github.com/OrleansContrib/Orleans.Http) ⭐ 109 | 🐛 15 | 🌐 C# | 📅 2022-12-08 - An HTTP API for Microsoft Orleans.
+* [Orleans.Http](https://github.com/OrleansContrib/Orleans.Http) ⭐ 108 | 🐛 15 | 🌐 C# | 📅 2022-12-08 - An HTTP API for Microsoft Orleans.
 * [Orleans.SyncWork](https://github.com/OrleansContrib/Orleans.SyncWork) ⭐ 77 | 🐛 0 | 🌐 C# | 📅 2026-09-03 - write long running CPU bound synchronous work, without becoming overloaded.
 * [Orleans.Indexing](https://github.com/OrleansContrib/Orleans.Indexing) ⭐ 50 | 🐛 5 | 🌐 C# | 📅 2021-09-05 - Indexing extension for Orleans.
 * [Orleans.StorageProviderInterceptors](https://github.com/ElanHasson/Orleans.StorageProviderInterceptors) ⭐ 9 | 🐛 21 | 🌐 C# | 📅 2024-01-10 - Intercept grain storage provider calls for transparent encryption model state validation, or whatever you can dream up!
@@ -93,4 +93,4 @@ A collection of awesome things in the [Microsoft Orleans](https://github.com/dot
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-01._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-02._
