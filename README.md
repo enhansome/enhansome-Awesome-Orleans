@@ -1,8 +1,8 @@
 # Awesome Orleans with stars
 
-### **Awesome Orleans** [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 513,795 | 🐛 106 | 📅 2026-09-02
+### **Awesome Orleans** [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 514,091 | 🐛 107 | 📅 2026-09-02
 
-A collection of awesome things in the [Microsoft Orleans](https://github.com/dotnet/orleans) ⭐ 10,888 | 🐛 622 | 🌐 C# | 📅 2026-10-02 ecosystem.
+A collection of awesome things in the [Microsoft Orleans](https://github.com/dotnet/orleans) ⭐ 10,888 | 🐛 621 | 🌐 C# | 📅 2026-10-03 ecosystem.
 
 ##### Documentation
 
@@ -46,7 +46,7 @@ A collection of awesome things in the [Microsoft Orleans](https://github.com/dot
 
 ##### Monitoring
 
-* [OrleansDashboard](https://github.com/OrleansContrib/OrleansDashboard) ⭐ 761 | 🐛 39 | 🌐 C# | 📅 2025-11-13 - A monitoring dashboard for Microsoft Orleans
+* [OrleansDashboard](https://github.com/OrleansContrib/OrleansDashboard) ⭐ 760 | 🐛 39 | 🌐 C# | 📅 2025-11-13 - A monitoring dashboard for Microsoft Orleans
 
 ##### Testing
 
