@@ -1,8 +1,8 @@
 # Awesome Orleans with stars
 
-### **Awesome Orleans** [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 514,632 | 🐛 107 | 📅 2026-09-02
+### **Awesome Orleans** [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 515,144 | 🐛 107 | 📅 2026-09-02
 
-A collection of awesome things in the [Microsoft Orleans](https://github.com/dotnet/orleans) ⭐ 10,895 | 🐛 622 | 🌐 C# | 📅 2026-10-04 ecosystem.
+A collection of awesome things in the [Microsoft Orleans](https://github.com/dotnet/orleans) ⭐ 10,897 | 🐛 616 | 🌐 C# | 📅 2026-10-05 ecosystem.
 
 ##### Documentation
 
@@ -69,7 +69,7 @@ A collection of awesome things in the [Microsoft Orleans](https://github.com/dot
 
 * [SignalR.Orleans](https://github.com/OrleansContrib/SignalR.Orleans) ⭐ 312 | 🐛 27 | 🌐 C# | 📅 2026-02-05 - SignalR backend based on Orleans.
 * [OrleanSpaces](https://github.com/ledjon-behluli/OrleanSpaces) ⭐ 69 | 🐛 0 | 🌐 C# | 📅 2023-12-02 - A virtual, fully-asynchronous, Tuple Space implementation backed by Orleans.
-* [Orleans.SignalR](https://github.com/managedcode/Orleans.SignalR) ⭐ 37 | 🐛 0 | 🌐 C# | 📅 2026-09-03 - SignalR for Orleans, base on Streams, with all functions, including calling client methods and getting results.
+* [Orleans.SignalR](https://github.com/managedcode/Orleans.SignalR) ⭐ 37 | 🐛 0 | 🌐 C# | 📅 2026-10-05 - SignalR for Orleans, base on Streams, with all functions, including calling client methods and getting results.
 * [Trool.io](https://trool.io/) - A tech stack for Domain Driven Design with CQRS and Event Sourcing.
 * [Web Scheduler](https://github.com/web-scheduler/) - A general scheduler supporting a variety of triggers.
 * [Message Silo](https://www.message-silo.dev) - A platform to auto-correct your dead-lettered messages and make integration simpler for event-driven systems. Azure Service Bus, AWS SQS, RabbitMQ, and more...
@@ -93,4 +93,4 @@ A collection of awesome things in the [Microsoft Orleans](https://github.com/dot
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-04._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-05._
