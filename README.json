@@ -740,7 +740,7 @@
                 "open_issues": 21,
                 "owner": "ElanHasson",
                 "repo": "Orleans.StorageProviderInterceptors",
-                "stars": 9,
+                "stars": 10,
                 "topics": [
                   "orleans",
                   "orleans-grains",
@@ -863,7 +863,7 @@
                 "id": 623346093,
                 "language": "C#",
                 "license": "MIT",
-                "last_commit": "2026-10-05T11:42:25Z",
+                "last_commit": "2026-10-10T16:54:07Z",
                 "open_issues": 0,
                 "owner": "managedcode",
                 "repo": "Orleans.SignalR",
@@ -886,7 +886,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-09T21:51:49.445Z",
+    "last_updated": "2026-10-10T20:40:34.592Z",
     "original_repository_info": {
       "archived": false,
       "description": ":sunglasses: Awesome Microsoft Orleans Projects",
@@ -895,7 +895,7 @@
       "language": null,
       "license": "MIT",
       "last_commit": "2023-12-29T23:44:49Z",
-      "open_issues": 0,
+      "open_issues": 1,
       "owner": "OrleansContrib",
       "repo": "Awesome-Orleans",
       "stars": 166,
