@@ -109,7 +109,7 @@
                 "open_issues": 2,
                 "owner": "pmorelli92",
                 "repo": "Orleans.Tournament",
-                "stars": 77,
+                "stars": 78,
                 "topics": [
                   "actor-model",
                   "authentication",
@@ -886,7 +886,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-12T23:44:54.867Z",
+    "last_updated": "2026-10-13T21:56:41.291Z",
     "original_repository_info": {
       "archived": false,
       "description": ":sunglasses: Awesome Microsoft Orleans Projects",
