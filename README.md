@@ -1,8 +1,8 @@
 # Awesome Orleans with stars
 
-### **Awesome Orleans** [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 518,965 | 🐛 105 | 📅 2026-09-02
+### **Awesome Orleans** [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 519,450 | 🐛 105 | 📅 2026-09-02
 
-A collection of awesome things in the [Microsoft Orleans](https://github.com/dotnet/orleans) ⭐ 10,906 | 🐛 625 | 🌐 C# | 📅 2026-10-14 ecosystem.
+A collection of awesome things in the [Microsoft Orleans](https://github.com/dotnet/orleans) ⭐ 10,904 | 🐛 634 | 🌐 C# | 📅 2026-10-15 ecosystem.
 
 ##### Documentation
 
@@ -54,10 +54,10 @@ A collection of awesome things in the [Microsoft Orleans](https://github.com/dot
 
 ##### Extensions
 
-* [Orleankka](https://github.com/OrleansContrib/Orleankka) ⭐ 505 | 🐛 3 | 🌐 C# | 📅 2025-12-15 - Functional API for Microsoft Orleans
+* [Orleankka](https://github.com/OrleansContrib/Orleankka) ⭐ 506 | 🐛 3 | 🌐 C# | 📅 2025-12-15 - Functional API for Microsoft Orleans
 * [Orleans.Sagas](https://github.com/OrleansContrib/Orleans.Sagas) ⭐ 168 | 🐛 9 | 🌐 C# | 📅 2024-04-04 - A distributed saga implementation for Orleans.
 * [Orleans.Http](https://github.com/OrleansContrib/Orleans.Http) ⭐ 108 | 🐛 15 | 🌐 C# | 📅 2022-12-08 - An HTTP API for Microsoft Orleans.
-* [Orleans.SyncWork](https://github.com/OrleansContrib/Orleans.SyncWork) ⭐ 77 | 🐛 0 | 🌐 C# | 📅 2026-09-03 - write long running CPU bound synchronous work, without becoming overloaded.
+* [Orleans.SyncWork](https://github.com/OrleansContrib/Orleans.SyncWork) ⭐ 78 | 🐛 0 | 🌐 C# | 📅 2026-09-03 - write long running CPU bound synchronous work, without becoming overloaded.
 * [Orleans.Indexing](https://github.com/OrleansContrib/Orleans.Indexing) ⭐ 50 | 🐛 5 | 🌐 C# | 📅 2021-09-05 - Indexing extension for Orleans.
 * [Orleans.StorageProviderInterceptors](https://github.com/ElanHasson/Orleans.StorageProviderInterceptors) ⭐ 10 | 🐛 21 | 🌐 C# | 📅 2024-01-10 - Intercept grain storage provider calls for transparent encryption model state validation, or whatever you can dream up!
 
@@ -69,7 +69,7 @@ A collection of awesome things in the [Microsoft Orleans](https://github.com/dot
 
 * [SignalR.Orleans](https://github.com/OrleansContrib/SignalR.Orleans) ⭐ 312 | 🐛 27 | 🌐 C# | 📅 2026-02-05 - SignalR backend based on Orleans.
 * [OrleanSpaces](https://github.com/ledjon-behluli/OrleanSpaces) ⭐ 69 | 🐛 0 | 🌐 C# | 📅 2023-12-02 - A virtual, fully-asynchronous, Tuple Space implementation backed by Orleans.
-* [Orleans.SignalR](https://github.com/managedcode/Orleans.SignalR) ⭐ 37 | 🐛 0 | 🌐 C# | 📅 2026-10-10 - SignalR for Orleans, base on Streams, with all functions, including calling client methods and getting results.
+* [Orleans.SignalR](https://github.com/managedcode/Orleans.SignalR) ⭐ 38 | 🐛 0 | 🌐 C# | 📅 2026-10-10 - SignalR for Orleans, base on Streams, with all functions, including calling client methods and getting results.
 * [Trool.io](https://trool.io/) - A tech stack for Domain Driven Design with CQRS and Event Sourcing.
 * [Web Scheduler](https://github.com/web-scheduler/) - A general scheduler supporting a variety of triggers.
 * [Message Silo](https://www.message-silo.dev) - A platform to auto-correct your dead-lettered messages and make integration simpler for event-driven systems. Azure Service Bus, AWS SQS, RabbitMQ, and more...
@@ -93,4 +93,4 @@ A collection of awesome things in the [Microsoft Orleans](https://github.com/dot
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-14._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-15._
