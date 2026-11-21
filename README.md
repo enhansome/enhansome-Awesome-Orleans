@@ -1,8 +1,8 @@
 # Awesome Orleans with stars
 
-### **Awesome Orleans** [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 540,007 | 🐛 103 | 📅 2026-09-02
+### **Awesome Orleans** [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 540,510 | 🐛 103 | 📅 2026-09-02
 
-A collection of awesome things in the [Microsoft Orleans](https://github.com/dotnet/orleans) ⭐ 10,929 | 🐛 671 | 🌐 C# | 📅 2026-11-20 ecosystem.
+A collection of awesome things in the [Microsoft Orleans](https://github.com/dotnet/orleans) ⭐ 10,929 | 🐛 666 | 🌐 C# | 📅 2026-11-21 ecosystem.
 
 ##### Documentation
 
@@ -18,7 +18,7 @@ A collection of awesome things in the [Microsoft Orleans](https://github.com/dot
 ##### Example Projects
 
 * [Dotnet-Boxed Orleans Template](https://github.com/Dotnet-Boxed/Templates/blob/main/Docs/Orleans.md) ⭐ 3,484 | 🐛 51 | 🌐 C# | 📅 2026-11-11 - Orleans project template with batteries included, providing the minimum amount of code required to get you going.
-* [HanBaoBao](https://github.com/ReubenBond/hanbaobao-web) ⭐ 153 | 🐛 2 | 🌐 C# | 📅 2021-06-03 - A Mandarin/English bilingual dictionary built with a VueJS Web frontend, demonstrating Kubernetes deployment on AKS
+* [HanBaoBao](https://github.com/ReubenBond/hanbaobao-web) ⭐ 154 | 🐛 2 | 🌐 C# | 📅 2021-06-03 - A Mandarin/English bilingual dictionary built with a VueJS Web frontend, demonstrating Kubernetes deployment on AKS
 * [Orleans.Tournament](https://github.com/pmorelli92/Orleans.Tournament) ⭐ 78 | 🐛 2 | 🌐 C# | 📅 2024-05-09 - Orleans sample with clustering, implicit stream handling, authentication, authorization, websockets.
 * [Orleans Heroes](https://github.com/sketch7/orleans-heroes) ⭐ 71 | 🐛 4 | 🌐 C# | 📅 2026-09-18 - sample app.
 * [Orleans.Security](https://github.com/Async-Hub/Orleans.Security) ⭐ 41 | 🐛 6 | 🌐 C# | 📅 2024-10-17 - Authorization library for Microsoft Orleans
@@ -27,7 +27,7 @@ A collection of awesome things in the [Microsoft Orleans](https://github.com/dot
 
 ##### Learning
 
-* [Road to Orleans](https://github.com/PiotrJustyna/road-to-orleans) ⭐ 162 | 🐛 43 | 🌐 C# | 📅 2025-02-06 - Practical, real-life examples from basic to more advanced techniques.
+* [Road to Orleans](https://github.com/PiotrJustyna/road-to-orleans) ⭐ 163 | 🐛 43 | 🌐 C# | 📅 2025-02-06 - Practical, real-life examples from basic to more advanced techniques.
 * [Modules on Microsoft Learn](https://docs.microsoft.com/en-us/learn/browse/?expanded=dotnet\&products=dotnet-orleans) - Orleans learning modules on Microsoft Learn.
 * [Pluralsight Course](https://www.pluralsight.com/courses/microsoft-orleans-introduction) - Introduction to Microsoft Orleans Pluralsight Course.
 * [Udemy Course](https://www.udemy.com/course/complete-orleans-net-from-zero-to-hero/) - Complete Microsoft Orleans .NET: From Zero to Hero
@@ -93,4 +93,4 @@ A collection of awesome things in the [Microsoft Orleans](https://github.com/dot
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-20._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-21._
