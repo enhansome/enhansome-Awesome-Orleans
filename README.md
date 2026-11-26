@@ -1,8 +1,8 @@
 # Awesome Orleans with stars
 
-### **Awesome Orleans** [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 542,352 | 🐛 103 | 📅 2026-09-02
+### **Awesome Orleans** [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 542,845 | 🐛 103 | 📅 2026-09-02
 
-A collection of awesome things in the [Microsoft Orleans](https://github.com/dotnet/orleans) ⭐ 10,932 | 🐛 666 | 🌐 C# | 📅 2026-11-24 ecosystem.
+A collection of awesome things in the [Microsoft Orleans](https://github.com/dotnet/orleans) ⭐ 10,931 | 🐛 667 | 🌐 C# | 📅 2026-11-25 ecosystem.
 
 ##### Documentation
 
@@ -17,7 +17,7 @@ A collection of awesome things in the [Microsoft Orleans](https://github.com/dot
 
 ##### Example Projects
 
-* [Dotnet-Boxed Orleans Template](https://github.com/Dotnet-Boxed/Templates/blob/main/Docs/Orleans.md) ⭐ 3,481 | 🐛 51 | 🌐 C# | 📅 2026-11-11 - Orleans project template with batteries included, providing the minimum amount of code required to get you going.
+* [Dotnet-Boxed Orleans Template](https://github.com/Dotnet-Boxed/Templates/blob/main/Docs/Orleans.md) ⭐ 3,482 | 🐛 51 | 🌐 C# | 📅 2026-11-11 - Orleans project template with batteries included, providing the minimum amount of code required to get you going.
 * [HanBaoBao](https://github.com/ReubenBond/hanbaobao-web) ⭐ 154 | 🐛 2 | 🌐 C# | 📅 2021-06-03 - A Mandarin/English bilingual dictionary built with a VueJS Web frontend, demonstrating Kubernetes deployment on AKS
 * [Orleans.Tournament](https://github.com/pmorelli92/Orleans.Tournament) ⭐ 78 | 🐛 2 | 🌐 C# | 📅 2024-05-09 - Orleans sample with clustering, implicit stream handling, authentication, authorization, websockets.
 * [Orleans Heroes](https://github.com/sketch7/orleans-heroes) ⭐ 71 | 🐛 4 | 🌐 C# | 📅 2026-09-18 - sample app.
@@ -36,7 +36,7 @@ A collection of awesome things in the [Microsoft Orleans](https://github.com/dot
 
 * [Orleans.Clustering.Kubernetes](https://github.com/OrleansContrib/Orleans.Clustering.Kubernetes) ⭐ 201 | 🐛 14 | 🌐 C# | 📅 2026-03-23 - Orleans Membership provider for Kubernetes
 * [Orleans.Providers.MongoDB](https://github.com/OrleansContrib/Orleans.Providers.MongoDB) ⭐ 115 | 🐛 7 | 🌐 C# | 📅 2026-01-12 - A MongoDb providers for Membership, Storage and Reminders.
-* [Orleans.Streams.Kafka](https://github.com/jonathansant/Orleans.Streams.Kafka) ⭐ 87 | 🐛 20 | 🌐 C# | 📅 2024-02-29 - An implementation of a PersistentStreamProvider for Microsoft Orleans and Kafka using the Confluent API.
+* [Orleans.Streams.Kafka](https://github.com/jonathansant/Orleans.Streams.Kafka) ⭐ 87 | 🐛 19 | 🌐 C# | 📅 2024-02-29 - An implementation of a PersistentStreamProvider for Microsoft Orleans and Kafka using the Confluent API.
 * [Orleans.Redis](https://github.com/OrleansContrib/Orleans.Redis) ⭐ 71 | 🐛 17 | 🌐 C# | 📅 2024-01-10 - Persistence and Clustering providers for Orleans
 * [Orleans.Providers.EntityFramework](https://github.com/OrleansContrib/Orleans.Providers.EntityFramework) ⭐ 53 | 🐛 6 | 🌐 C# | 📅 2024-03-08 - An Entity Framework Core implementation of Orleans Grain Storage.
 * [Orleans.CosmosDB](https://github.com/OrleansContrib/Orleans.CosmosDB) ⚠️ Archived - Orleans providers for Azure Cosmos DB
@@ -93,4 +93,4 @@ A collection of awesome things in the [Microsoft Orleans](https://github.com/dot
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-25._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-26._
